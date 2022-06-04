@@ -1,0 +1,25 @@
+#form {
+  background-color: aquamarine;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 2px solid lightslategray;
+  border-radius: 4px;
+  text-align: center;
+  width: 40%;
+
+}
+
+#h {
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+
+body {
+  background-color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#adress{
+  height: auto;
+  width: fit-content;
+}
